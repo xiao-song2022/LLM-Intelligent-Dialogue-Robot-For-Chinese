@@ -1,6 +1,6 @@
 # LLM-Intelligent-Dialogue-Robot-For-Chinese
 
-establissh on
+Establissh on
 Python 3.11.5
 torch 2.1.1+cu118
 ,For other packages and detailed environment configurations, see the
